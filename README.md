@@ -1,1 +1,4 @@
 # 2024_UP_Swing_map
+The 2024 Indian election result in Uttar Pradesh was a big surprise, the main opposition consisting of the beleaguered Indian National Congress and the Samajwadi Party did much better than expected, winning a combined 43 seats against the BJP and allies 36. With the inauguration of the Ram temple in Ayodhya the UP 2024 lok sabha election result was considered to be a done deal, however the issues of unemployment, price-rise and danger to the constitution appeared to resonate more with the voters of UP. In a great irony the seat which contained the Ram temple in Ayodhya was lost by the BJP to the opposition.
+This map depicts the swings aganst the NDA in the 2024 parliamentary election in UP
+![2024 UP Swing map(final)](https://github.com/Androcinus/2024_UP_Swing_map/assets/129663854/2a1f8115-b672-4e63-b9d9-b8504622c491)
